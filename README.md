@@ -160,5 +160,7 @@ Apply and close를 누르고 이클립스를 한번 재실행해 주면 오류�
 ### 파일 설명
 
 GreedyChange.java : 알고리즘 구현 코드
+
 vending_machine_gui.java : 자판기 GUI 구현 코드
+
 Vending_machine : 최종 프로젝트 폴더 (최종 코드, 이미지 포함)
