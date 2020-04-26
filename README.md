@@ -136,19 +136,17 @@ public static void DynamicChange() { //최적의 해
 
 이클립스에서 프로젝트를 실행시킬 때, 인코딩 에러로 인해, 한글 깨짐 현상이 생기는 경우가 있습니다. 그럴 때를 위한 지침서입니다.
 
-<img src="https://t1.daumcdn.net/cfile/tistory/2302B3335954C4BC13?download" alt="Window" style="zoom:77%;" />
+<img src="https://t1.daumcdn.net/cfile/tistory/2302B3335954C4BC13?download" alt="Window" style="zoom:50%;" />
 
 우선 'Window > Preferences'를 클릭합니다.
 
-<img src="https://ifh.cc/g/bYOyOO.png" alt="Preferences" style="zoom:67%;" />
+<img src="https://ifh.cc/g/bYOyOO.png" alt="Preferences" style="zoom:50%;" />
 
 인코딩 문제이기 때문에 검색창에 encoding을 검색합니다.
 
 "Content Types > Text"를 클릭하여 Default encoding 에 UTF-8이라고 입력한 후 'Update'를 눌러줍니다.
 
-
-
-<img src="https://ifh.cc/g/6R4r0M.png" alt="ContentTypes" style="zoom:67%;" />
+<img src="https://ifh.cc/g/6R4r0M.png" alt="ContentTypes" style="zoom:50%;" />
 
 'Workspace > Text file encoding > Other: UTF-8'로 체크한 뒤 Apply를 클릭합니다.
 
