@@ -132,3 +132,24 @@ public static void DynamicChange() { //최적의 해
 
 하지만 무조건 최적의 해를 구합니다. 이것이 그리디 알고리즘과의 차이입니다.
 
+## 한글 깨짐 현상 해결
+
+이클립스에서 프로젝트를 실행시킬 때, 인코딩 에러로 인해 한글 깨짐 현상이 생기는 경우가 있습니다. 그럴 때를 위한 지침서입니다.
+
+<img src="https://t1.daumcdn.net/cfile/tistory/2302B3335954C4BC13?download" alt="이클립스 화면" style="zoom:77%;" />
+
+우선 'Window > Preferences'를 클릭합니다.
+
+<img src="C:\Users\Dklim\AppData\Roaming\Typora\typora-user-images\image-20200426170242791.png" alt="image-20200426170242791" style="zoom:67%;" />
+
+인코딩 문제이기 때문에 검색창에 encoding을 검색합니다.
+
+"Content Types > Text"를 클릭하여 Default encoding 에 UTF-8이라고 입력한 후 'Update'를 눌러줍니다.
+
+<img src="C:\Users\Dklim\AppData\Roaming\Typora\typora-user-images\image-20200426170456568.png" alt="image-20200426170456568" style="zoom:67%;" />
+
+'Workspace > Text file encoding > Other: UTF-8'로 체크한 뒤 Apply를 클릭합니다.
+
+<img src="C:\Users\Dklim\AppData\Roaming\Typora\typora-user-images\image-20200426170621115.png" alt="image-20200426170621115" style="zoom:67%;" />
+
+'XML Files > Encoding'에서 'UTF - 8'을 선택해준 후 'Apply'를 누릅니다.
