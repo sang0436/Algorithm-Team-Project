@@ -150,6 +150,8 @@ public static void DynamicChange() { //최적의 해
 
 'Workspace > Text file encoding > Other: UTF-8'로 체크한 뒤 Apply를 클릭합니다.
 
-<img src="https://ifh.cc/g/4SFQfY.png" alt="XML" style="zoom:67%;" />
+<img src="https://ifh.cc/g/4SFQfY.png" alt="XML" style="zoom:40%;" />
 
 'XML Files > Encoding'에서 'UTF - 8'을 선택해준 후 'Apply'를 누릅니다.
+
+Apply and close를 누르고 이클립스를 한번 재실행해 주면 오류가 해결됩니다.
